@@ -1,4 +1,4 @@
-# **CSE 141L Processor Design Project**
+# **Microprocessor Design Project**
 
 ## **Overview**
 This repository contains the design and implementation of a custom processor for **CSE 141L**, including Verilog modules, an assembler, and testbenches for three floating-point operations. The project evaluates performance and correctness through RTL simulations and testbench outputs.
@@ -106,3 +106,4 @@ The assembler is implemented in Python using Jupyter Notebook (`assembler.ipynb`
 
 ## **Acknowledgments**
 This project was developed as part of **CSE 141L** and follows coursework requirements for designing and verifying a custom floating-point processor.
+Project Partner: Kameron Gano
